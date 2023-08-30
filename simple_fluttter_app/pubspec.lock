@@ -75,6 +75,14 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  hmssdk_flutter:
+    dependency: "direct dev"
+    description:
+      name: hmssdk_flutter
+      sha256: "6b9e250f1aa013f2ee038edb107cb9c4accbcbe4c50d642a362e589358005411"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.7.5"
   lints:
     dependency: transitive
     description:
@@ -186,3 +194,4 @@ packages:
     version: "0.1.4-beta"
 sdks:
   dart: ">=3.2.0-122.0.dev <4.0.0"
+  flutter: ">=2.10.0"
